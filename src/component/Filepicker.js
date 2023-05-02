@@ -4,7 +4,7 @@ export default function InputRef() {
   const fileInputRef = useRef(null);
 
   const handleClick = () => {
-    fileInputRef.current.click();
+    fileInputRef.current.click():
   };
 
   return (
